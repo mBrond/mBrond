@@ -13,19 +13,19 @@ Nacionalidade? Brasileiro, mas tenho dupla cidadania italiana 	emoji)
 Faço o que da vida? Atualmente curso Técnico em Informática para Internet Integrado ao Ensino Médio no Colégio Técnico Indúsrtial de Santa Maria. Também sou um dos Representantes de Turma e membro do Diretório Estudantil.
 
 ### Competências Intelectuais emoji):
-1.C
-2.PHP
-3.JAVASCRIPT
-4.HTML
-5.Inglês avançado
-6.Português avançado
-7.Espanhol intermediário
+1. C
+2. PHP
+3. JAVASCRIPT
+4. HTML
+5. Inglês avançado
+6. Português avançado
+7. Espanhol intermediário
 
 ### Competências Físicas emoji):
-1.Natação básica
-2.Basquete básico
-3.Futebol básico
-4.Capoeira básica
+1. Natação básica
+2. Basquete básico
+3. Futebol básico
+4. Capoeira básica
 
 ### Experiência profissional:
 
