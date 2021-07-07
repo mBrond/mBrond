@@ -1,13 +1,26 @@
-﻿### Hi there 👋
+﻿### Eae meu chapa!
 
+Meu nome? Miguel Brondani
+Quão idoso? 16 primaveras
+Nacionalidade? Brasileiro, mas tenho dupla cidadania italiana 	emoji)
+Faço o que da vida? Atualmente curso Técnico em Informática para Internet Integrado ao Ensino Médio no Colégio Técnico Indúsrtial de Santa Maria. Também sou um dos Representantes de Turma e membro do Diretório Estudantil.
 
-**mBrond/mBrond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on Monte de coisa 
-- 🌱 I’m currently learning Tudo
-- 👯 I’m looking to collaborate on Boa pergunta
-- 🤔 I’m looking for help with Nada
-- 💬 Ask me about Qualquer coisa ae parça
-- 📫 How to reach me Email
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu nao to morto
+Competências:
+- C
+- PHP
+- JAVASCRIPT
+- HTML
+- Inglês avançado
+- Português avançado
+- Espanhol intermediário
+
+Experiência profissional:
+
+- Atualmente, nenhuma ;-;
+
+Redes Sociais Públicas:
+Instagram: link
+Lattes: putz n tem
+Only Fans: KKKKKK
+Email: brondani.miguel@gmail.com
 
