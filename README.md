@@ -1,26 +1,65 @@
-﻿### Eae meu chapa!
+﻿# Eae meu chapa!
+
+##Quem eu sou? Segue a thread emoji)
+
+###Básico:
 
 Meu nome? Miguel Brondani
 Quão idoso? 16 primaveras
 Nacionalidade? Brasileiro, mas tenho dupla cidadania italiana 	emoji)
 Faço o que da vida? Atualmente curso Técnico em Informática para Internet Integrado ao Ensino Médio no Colégio Técnico Indúsrtial de Santa Maria. Também sou um dos Representantes de Turma e membro do Diretório Estudantil.
 
-Competências:
-- C
-- PHP
-- JAVASCRIPT
-- HTML
-- Inglês avançado
-- Português avançado
-- Espanhol intermediário
+###Competências Intelectuais emoji):
+1.C
+2.PHP
+3.JAVASCRIPT
+4.HTML
+5.Inglês avançado
+6.Português avançado
+7.Espanhol intermediário
 
-Experiência profissional:
+###Competências Físicas emoji):
+1.Natação básica
+2.Basquete básico
+3.Futebol básico
+4.Capoeira básica
 
-- Atualmente, nenhuma ;-;
+###Experiência profissional:
 
-Redes Sociais Públicas:
+- 
+
+###Redes Sociais Públicas:
 Instagram: link
 Lattes: putz n tem
 Only Fans: KKKKKK
 Email: brondani.miguel@gmail.com
+
+##Curiosidades aleatórias sobre mim:
+
+###Obras de ficção lidas:
+- As Crônicas de Gelo e Fogo
+- Percy Jackson e os Olimpianos
+- Heróis do Olimpo
+- Jogos Vorazes
+- A Cantiga dos Pássaros e das Serpentes
+- O ódio que Você Semeia
+- O Código Perdido
+- As Crônicas de Nárnia
+- Fogo e Sangue
+- Databook de Naruto
+- Mega Disney
+
+###O que mais jogo:
+1. Elder Scrolls: Skyrim
+2. League of Legends
+3. Minecraft
+4. O lixo fora (piadas emoji))
+
+###No CTISM:
+- Tive 6 (seis!) dias de aula presenciais
+- Estou de pijama na foto da carteirinha do RU
+- Eu joguei no PS2 de lá emoji)
+
+
+
 
