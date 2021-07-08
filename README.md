@@ -1,15 +1,13 @@
 ﻿# Eae meu chapa!
 
-## Quem eu sou? Segue a thread emoji)
-
 ### Básico:
 
-Meu nome? Miguel Brondani
-Quão idoso? 16 primaveras
-Nacionalidade? Brasileiro, mas tenho dupla cidadania italiana 	emoji)
-Faço o que da vida? Atualmente curso Técnico em Informática para Internet Integrado ao Ensino Médio no Colégio Técnico Indúsrtial de Santa Maria. Também sou um dos Representantes de Turma e membro do Diretório Estudantil.
+- Meu nome? Miguel Brondani
+- Quão idoso? 16 primaveras
+- Nacionalidade? Brasileiro, mas tenho dupla cidadania italiana 🇧🇷 🇮🇹
+- Faço o que da vida? Atualmente curso Técnico em Informática para Internet Integrado ao Ensino Médio no Colégio Técnico Indúsrtial de Santa Maria. Também sou um dos Representantes de Turma e membro do Diretório Estudantil.
 
-### Competências Intelectuais emoji):
+### Competências Intelectuais 🧠:
 1. C
 2. PHP
 3. JAVASCRIPT
@@ -18,17 +16,11 @@ Faço o que da vida? Atualmente curso Técnico em Informática para Internet Int
 6. Português avançado
 7. Espanhol intermediário
 
-### Competências Físicas emoji):
-1. Natação básica
-2. Basquete básico
-3. Futebol básico
-4. Capoeira básica
-
-### Experiência profissional:
+### Experiência profissional 📈:
 
 - Ajudei na loja dos meu pais
 
-### Redes Sociais Públicas e Contato:
+### Redes Sociais Públicas e Contato 📱:
 - [Instagram](https://www.instagram.com/brondani.miguel)
 - [Lattes](https://lattes.cnpq.br)
 - [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -36,8 +28,8 @@ Faço o que da vida? Atualmente curso Técnico em Informática para Internet Int
 
 ## Curiosidades aleatórias sobre mim:
 
-### Obras de ficção lidas:
-* As Crônicas de Gelo e Fogo (na espera por Winds of Winter)
+### Obras de ficção lidas 📚:
+* As Crônicas de Gelo e Fogo *(na espera por Winds of Winter)*
 * Percy Jackson e os Olimpianos
 * Heróis do Olimpo
 * Jogos Vorazes
@@ -52,15 +44,15 @@ Faço o que da vida? Atualmente curso Técnico em Informática para Internet Int
 * Alguns capítulos de Shingeki no Kyojin
 * Alguns capítulos de Nanatsu no Taizai
 
-### O que mais jogo:
+### O que mais jogo 🎮:
 1. Elder Scrolls: Skyrim
 2. League of Legends
 3. Minecraft
-4. O lixo fora (piadas emoji))
+4. O lixo fora 🤣
 
-### No CTISM:
+### No CTISM 🏫:
 - Tive 6 (seis!) dias de aulas presenciais
 - Estou de pijama na foto da carteirinha do RU
 - Eu joguei no PS2 de lá emoji)
 
-## Futuro:
+> Shinzou wo sasageyo!
