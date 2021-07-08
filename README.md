@@ -56,7 +56,6 @@ What I do? Currentyl stdudying Técnico em Informática para Internet Integrado 
 1. Elder Scrolls: Skyrim
 2. League of Legends
 3. Minecraft
-4. O lixo fora (piadas emoji))
 
 ### At CTISM:
 - I had 6 (six!) days of presencial class
