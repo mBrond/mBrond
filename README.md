@@ -5,11 +5,8 @@
 ### Básico:
 
 Meu nome? Miguel Brondani
-<space></space>
 Quão idoso? 16 primaveras
-<space></space>
 Nacionalidade? Brasileiro, mas tenho dupla cidadania italiana 	emoji)
-<space></space>
 Faço o que da vida? Atualmente curso Técnico em Informática para Internet Integrado ao Ensino Médio no Colégio Técnico Indúsrtial de Santa Maria. Também sou um dos Representantes de Turma e membro do Diretório Estudantil.
 
 ### Competências Intelectuais emoji):
@@ -29,28 +26,31 @@ Faço o que da vida? Atualmente curso Técnico em Informática para Internet Int
 
 ### Experiência profissional:
 
-- 
+- Ajudei na loja dos meu pais
 
 ### Redes Sociais Públicas e Contato:
 - [Instagram](https://www.instagram.com/brondani.miguel)
 - [Lattes](https://lattes.cnpq.br)
-- [only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - Email: brondani.miguel@gmail.com
 
 ## Curiosidades aleatórias sobre mim:
 
 ### Obras de ficção lidas:
-_ As Crônicas de Gelo e Fogo (na espera por Winds of Winter)
-_ Percy Jackson e os Olimpianos
-_ Heróis do Olimpo
-_ Jogos Vorazes
-_ A Cantiga dos Pássaros e das Serpentes
-_ O ódio que Você Semeia
-_ O Código Perdido
-_ As Crônicas de Nárnia
-_ Fogo e Sangue
-_ Databook de Naruto
-_ Mega Disney
+* As Crônicas de Gelo e Fogo (na espera por Winds of Winter)
+* Percy Jackson e os Olimpianos
+* Heróis do Olimpo
+* Jogos Vorazes
+* A Cantiga dos Pássaros e das Serpentes
+* O ódio que Você Semeia
+* O Código Perdido
+* As Crônicas de Nárnia
+* Fogo e Sangue
+* Databook de Naruto
+* Mega Disney
+* Duna (lendo)
+* Alguns capítulos de Shingeki no Kyojin
+* Alguns capítulos de Nanatsu no Taizai
 
 ### O que mais jogo:
 1. Elder Scrolls: Skyrim
@@ -59,7 +59,7 @@ _ Mega Disney
 4. O lixo fora (piadas emoji))
 
 ### No CTISM:
-- Tive 6 (seis!) dias de aula presenciais
+- Tive 6 (seis!) dias de aulas presenciais
 - Estou de pijama na foto da carteirinha do RU
 - Eu joguei no PS2 de lá emoji)
 
