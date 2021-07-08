@@ -4,10 +4,10 @@
 
 ### Basic:
 
-My name? Miguel Brondani
-How old? 16 sprigns
-Nacionality? Brasilian, but I have dual Italian citizenship emoji)
-What I do? Currentyl stdudying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indúsrtial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
+- My name? Miguel Brondani
+- How old? 16 sprigns
+- Nacionality? Brasilian, but I have dual Italian citizenship emoji)
+- What I do? Currentyl stdudying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indúsrtial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
 
 ### Intelectual Competences emoji):
 1. C
@@ -62,4 +62,4 @@ What I do? Currentyl stdudying Técnico em Informática para Internet Integrado 
 - I am wearing pajamas in the University Restaurant card
 - I played on the PS2 we have there emoji)
 
-## Futuro:
+> Shinzou wo sasageyo!
