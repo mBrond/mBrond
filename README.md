@@ -56,11 +56,11 @@
 
 ### Future 🔮:
 
-[ ] Get COVID-19 vaccine
-[x] Study with the best teacher
-[ ] Learn Python
-[ ] Learn JAVA
-[ ] Learn more about SQL
-[ ] Learn another foreign language
+- [ ] Get COVID-19 vaccine
+- [x] Study with the best teacher
+- [ ] Learn Python
+- [ ] Learn JAVA
+- [ ] Learn more about SQL
+- [ ] Learn more one foreign language
 
 **Shinzou wo sasageyo!**
