@@ -3,8 +3,8 @@
 
 - My name? Miguel Brondani
 - How old? 16 springs
-- Nacionality? Brasilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
-- What I do? Currentyl stdudying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indúsrtial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
+- Nacionality? Brazilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
+- What I do? Currentyl stdudying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indústrial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
 
 ### Intelectual Competences 🧠:
 1. C
@@ -53,4 +53,14 @@
 - I had 6 (six!) days of presencial class
 - I am wearing pajamas in the University Restaurant card
 - I played on the PS2 we have there 😎
-> Shinzou wo sasageyo!
+
+### Future 🔮:
+
+[ ] Get COVID-19 vaccine
+[x] Study with the best teacher
+[ ] Learn Python
+[ ] Learn JAVA
+[ ] Learn more about SQL
+[ ] Learn another foreign language
+
+**Shinzou wo sasageyo!**
