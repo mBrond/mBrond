@@ -2,7 +2,7 @@
 ### Basic:
 
 - My name? Miguel Brondani
-- How old? 16 sprigns
+- How old? 16 springs
 - Nacionality? Brasilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
 - What I do? Currentyl stdudying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indúsrtial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
 
@@ -39,7 +39,6 @@
 * The Chronicles of Narnia
 * Fire and Blood
 * Naruto's databook
->>>>>>> english_version
 * Mega Disney
 * Dune (reading)
 * Some chapters of Shingeki no Kyojin
@@ -53,6 +52,5 @@
 ### At CTISM 🏫:
 - I had 6 (six!) days of presencial class
 - I am wearing pajamas in the University Restaurant card
-- I played on the PS2 we have there emoji)
-
+- I played on the PS2 we have there 😎
 > Shinzou wo sasageyo!
