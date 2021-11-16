@@ -39,7 +39,7 @@
 * Fire and Blood
 * Naruto's databook
 * Mega Disney
-* Dune (reading)
+* Dune
 * Some chapters of Shingeki no Kyojin
 * Some chapters de Nanatsu no Taizai
 
