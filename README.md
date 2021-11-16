@@ -8,12 +8,11 @@
 
 ### Intelectual Competences 🧠:
 1. C
-2. PHP
-3. JAVASCRIPT
-4. HTML
-5. Advanced English
-6. Advanced Portuguese - BR
-7. Intermediary Spanish
+2. JAVASCRIPT
+3. HTML
+4. Advanced English
+5. Advanced Portuguese - BR
+6. Intermediary Spanish
 
 ### Professional Experience 📈:
 
