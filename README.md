@@ -4,7 +4,7 @@
 - My name? Miguel Brondani
 - How old? 17 springs
 - Nacionality? Brazilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
-- What I do? Currentyl stdudying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indústrial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
+- What I do? Currently studying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indústrial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
 
 ### Intelectual Competences 🧠:
 1. C
