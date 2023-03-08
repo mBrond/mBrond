@@ -1,24 +1,23 @@
 ﻿# Hey bro!
 ### Basic:
 
-- My name? Miguel Brondani
-- How old? 17 springs
-- Nacionality? Brazilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
-- What I do? Currently studying Técnico em Informática para Internet Integrado ao Ensino Médio at Colégio Técnico Indústrial de Santa Maria. I am also one of the Class Representative and member of the Student Directory.
+- Miguel Brondani
+- 17 years lod
+- Brazilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
 
 ### Intelectual Competences 🧠:
 1. C
 2. JAVASCRIPT
-3. HTML
-4. Advanced English
-5. Advanced Portuguese - BR
-6. Intermediary Spanish
+3. HTML/CSS
+4. Python
+5. Java
+6. Advanced English
+7. Advanced Portuguese - BR
+8. Intermediary Spanish
 
 ### Public Social Medias and Contact 📱:
 
 - [Instagram](https://www.instagram.com/brondani.miguel)
 - [Lattes](https://lattes.cnpq.br)
+- [Linkedin](https://br.linkedin.com/in/miguel-brondani-198191226?original_referer=https%3A%2F%2Fwww.google.com%2F)
 - Email: brondani.miguel@gmail.com
-- [Only Fans](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-**Shinzou wo sasageyo!**
