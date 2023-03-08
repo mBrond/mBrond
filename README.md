@@ -2,7 +2,7 @@
 ### Basic:
 
 - Miguel Brondani
-- 17 years lod
+- 17 years old
 - Brazilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
 
 ### Intelectual Competences 🧠:
