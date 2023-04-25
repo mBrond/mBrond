@@ -3,7 +3,8 @@
 
 - Miguel Brondani
 - 17 years old
-- Brazilian, but I have dual Italian citizenship 🇧🇷 🇮🇹
+- Brazilian
+- Computer Science Student - UFSM
 
 ### Intelectual Competences 🧠:
 1. C
