@@ -1,20 +1,9 @@
-﻿# Hey bro!
-### Basic:
+﻿### Basic:
 
 - Miguel Brondani
-- 17 years old
+- 19 years old
 - Brazilian
 - Computer Science Student - UFSM
-
-### Intelectual Competences 🧠:
-1. C
-2. JAVASCRIPT
-3. HTML/CSS
-4. Python
-5. Java
-6. Advanced English
-7. Advanced Portuguese - BR
-8. Intermediary Spanish
 
 ### Social Medias and Contact 📱:
 
