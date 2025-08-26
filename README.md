@@ -9,9 +9,9 @@
 # Projects
 
 ## Webdev
-- [Calculadora Smart](https://github.com/mBrond/CalculadoraWeb)
+- [Smart Calculator](https://github.com/mBrond/CalculadoraWeb)
 - [Quadrinópolis](https://github.com/mBrond/Quadrinopolis)
-- [Unifans (externo, WIP)](unifans.onrender.com/)
+- [Unifans (external, WIP)](https://unifans.onrender.com/)
 
 ## Data Science
 - [Access Hidro API](https://github.com/mBrond/AccessHidroAPI)
@@ -19,7 +19,7 @@
 - [GuitarFlash Custom Games List](https://github.com/mBrond/GuitarFlashCustomsList)
 - [INPE ftp download](https://github.com/mBrond/fptINPE)
 - [Machine Learning Challenge](https://github.com/mBrond/desafioZeit)
-- [Modelo Hidrológico Ecotecnologias (atualização)](https://github.com/mBrond/mheBrondani/blob/main/Modelo_Hidrologico_Ecotecnologias.py)
+- [Hidrological Model Ecotecnologias (update)](https://github.com/mBrond/mheBrondani/blob/main/Modelo_Hidrologico_Ecotecnologias.py)
 
 ## Mobile
 - [Arduino Bluetooth controller](https://github.com/mBrond/motorBluetooth)
