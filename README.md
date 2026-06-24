@@ -12,6 +12,7 @@
 - [Smart Calculator](https://github.com/mBrond/CalculadoraWeb)
 - [Quadrinópolis](https://github.com/mBrond/Quadrinopolis)
 - [Unifans (external, WIP)](https://unifans.onrender.com/)
+- [FarmacIA (WIP)](https://miguelbrondani.pythonanywhere.com/)
 
 ## Data Science
 - [Access Hidro API](https://github.com/mBrond/AccessHidroAPI)
